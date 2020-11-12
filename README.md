@@ -22,3 +22,7 @@ npm start
 ```
 
 Profit 😃
+
+### Documentación
+
+[Guía React-Navigation](https://reactnavigation.org/docs/hello-react-navigation)
